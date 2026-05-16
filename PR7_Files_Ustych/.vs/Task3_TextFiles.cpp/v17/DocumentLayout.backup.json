@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ustich\\Desktop\\\u0441\u0442\u0443\u0434\u0435\u043D\u0442\\3 \u041A\u0423\u0420\u0421\\\u041E\u041E\u041F\\\u043D\u0430 15.05\\PR7_Files_Ustych\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC80E55-070A-4DD9-86CD-0427D5353431}|PR7_Files_Ustych\\PR7_Files_Ustych.vcxproj|C:\\Users\\Ustich\\Desktop\\\u0441\u0442\u0443\u0434\u0435\u043D\u0442\\3 \u041A\u0423\u0420\u0421\\\u041E\u041E\u041F\\\u043D\u0430 15.05\\PR7_Files_Ustych\\PR7_Files_Ustych\\PR7_Files_Ustych.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BDC80E55-070A-4DD9-86CD-0427D5353431}|PR7_Files_Ustych\\PR7_Files_Ustych.vcxproj|solutionrelative:PR7_Files_Ustych\\PR7_Files_Ustych.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC80E55-070A-4DD9-86CD-0427D5353431}|PR7_Files_Ustych\\PR7_Files_Ustych.vcxproj|C:\\Users\\Ustich\\Desktop\\\u0441\u0442\u0443\u0434\u0435\u043D\u0442\\3 \u041A\u0423\u0420\u0421\\\u041E\u041E\u041F\\\u043D\u0430 15.05\\PR7_Files_Ustych\\PR7_Files_Ustych\\Task7_BinaryFiles.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BDC80E55-070A-4DD9-86CD-0427D5353431}|PR7_Files_Ustych\\PR7_Files_Ustych.vcxproj|solutionrelative:PR7_Files_Ustych\\Task7_BinaryFiles.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Task7_BinaryFiles.cpp",
+              "DocumentMoniker": "C:\\Users\\Ustich\\Desktop\\\u0441\u0442\u0443\u0434\u0435\u043D\u0442\\3 \u041A\u0423\u0420\u0421\\\u041E\u041E\u041F\\\u043D\u0430 15.05\\PR7_Files_Ustych\\PR7_Files_Ustych\\Task7_BinaryFiles.cpp",
+              "RelativeDocumentMoniker": "PR7_Files_Ustych\\Task7_BinaryFiles.cpp",
+              "ToolTip": "C:\\Users\\Ustich\\Desktop\\\u0441\u0442\u0443\u0434\u0435\u043D\u0442\\3 \u041A\u0423\u0420\u0421\\\u041E\u041E\u041F\\\u043D\u0430 15.05\\PR7_Files_Ustych\\PR7_Files_Ustych\\Task7_BinaryFiles.cpp",
+              "RelativeToolTip": "PR7_Files_Ustych\\Task7_BinaryFiles.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAASwEUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-16T09:10:45.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PR7_Files_Ustych.cpp",
+              "DocumentMoniker": "C:\\Users\\Ustich\\Desktop\\\u0441\u0442\u0443\u0434\u0435\u043D\u0442\\3 \u041A\u0423\u0420\u0421\\\u041E\u041E\u041F\\\u043D\u0430 15.05\\PR7_Files_Ustych\\PR7_Files_Ustych\\PR7_Files_Ustych.cpp",
+              "RelativeDocumentMoniker": "PR7_Files_Ustych\\PR7_Files_Ustych.cpp",
+              "ToolTip": "C:\\Users\\Ustich\\Desktop\\\u0441\u0442\u0443\u0434\u0435\u043D\u0442\\3 \u041A\u0423\u0420\u0421\\\u041E\u041E\u041F\\\u043D\u0430 15.05\\PR7_Files_Ustych\\PR7_Files_Ustych\\PR7_Files_Ustych.cpp",
+              "RelativeToolTip": "PR7_Files_Ustych\\PR7_Files_Ustych.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-16T08:53:26.685Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
